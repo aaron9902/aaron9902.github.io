@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aaron's Blog"
+title                    : "Aaron's Loading Zone"
 title_separator          : "-"
-subtitle                 : "Version 1.0" # site tagline that appears below site title in masthead
+subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "Hyungju Lee(Aaron)" # this name goes on the bottem line.
 description              : "IT Graduate"
 url                      : "https://aaron9902.github.io"
@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Software & Networking Development Journal" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Aaron's Loading Zone" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -104,16 +104,16 @@ analytics:
 author:
   name             : "Hyungju Lee(Aaron)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "IT Graduate"
   location         : "Brisbane, QLD"
-  email            :
+  email            : "aaron.hj.lee@protonmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto: aaron.hj.lee@protonmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://tobee.com.au"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
