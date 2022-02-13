@@ -7,7 +7,7 @@ tags:
   - markup
   - post
   - title
-related: true
+comments: true
 ---
 
 Putting special characters in the title should have no adverse effect on the layout or functionality.
